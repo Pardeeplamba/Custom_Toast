@@ -1,0 +1,2 @@
+rootProject.name='Toast(Show Text)'
+include ':app'
